@@ -3,3 +3,70 @@
 2024-10-17 22:41:24,530 :INFO :test_Search :Einhell Battery Sense Agillo Power X-Change Lawn Strimmer, 3411320 Price:164.99
 2024-10-17 22:41:30,144 :INFO :test_Search :Item #2Was not active
 2024-10-17 22:41:35,220 :INFO :test_Search :Item #3Was not active
+2024-10-20 20:32:04,121 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:32:28,726 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:33:05,054 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:34:28,923 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:35:13,246 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:36:38,991 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:36:49,507 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:38:49,328 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:39:15,510 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:40:21,975 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:41:26,823 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:44:20,980 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:46:22,449 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:46:34,196 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:47:03,986 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:48:52,728 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:49:36,690 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:50:12,117 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:52:43,420 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:53:10,186 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:54:10,271 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:54:13,381 :INFO :test_Search :Items from the search:
+2024-10-20 20:54:14,888 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 20:54:15,843 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 20:54:16,430 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:197.75
+2024-10-20 20:55:26,464 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:55:29,793 :INFO :test_Search :Items from the search:
+2024-10-20 20:55:31,259 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 20:55:31,960 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 20:55:32,491 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:197.75
+2024-10-20 20:56:12,703 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-20 20:56:22,797 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:56:43,824 :INFO :test_Search :Items from the search:
+2024-10-20 20:56:43,964 :INFO :test_Search :Einhell Battery Sense Agillo Power X-Change Lawn Strimmer, 3411320 Price:164.99
+2024-10-20 20:56:49,763 :INFO :test_Search :Item #2Was not active
+2024-10-20 20:56:54,841 :INFO :test_Search :Item #3Was not active
+2024-10-20 20:59:39,624 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 20:59:44,246 :INFO :test_Search :Items from the search:
+2024-10-20 20:59:44,402 :INFO :test_Search :Einhell Battery Sense Agillo Power X-Change Lawn Strimmer, 3411320 Price:164.99
+2024-10-20 20:59:50,058 :INFO :test_Search :Item #2 was not active
+2024-10-20 20:59:55,146 :INFO :test_Search :Item #3 was not active
+2024-10-20 21:00:49,680 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 21:00:52,852 :INFO :test_Search :Items from the search:
+2024-10-20 21:00:54,470 :INFO :test_Search :Einhell Battery Sense Agillo Power X-Change Lawn Strimmer, 3411320 Price:164.99
+2024-10-20 21:01:00,140 :INFO :test_Search :Item #2 was not active
+2024-10-20 21:01:05,219 :INFO :test_Search :Item #3 was not active
+2024-10-20 21:19:34,556 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 21:35:34,532 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 21:35:39,430 :INFO :test_Search :Items from the search:
+2024-10-20 21:35:39,704 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 21:35:40,354 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 21:35:40,776 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:197.75
+2024-10-20 21:36:08,935 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 21:36:13,269 :INFO :test_Search :Items from the search:
+2024-10-20 21:36:13,471 :INFO :test_Search :Gigabyte NVIDIA GeForce RTX 3060 GV-N3060VISION OC-12GD 2.0 Price:748.68
+2024-10-20 21:36:14,335 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 21:36:14,961 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 21:37:14,161 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 21:37:19,769 :INFO :test_Search :Items from the search:
+2024-10-20 21:37:19,971 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 21:37:20,634 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 21:37:25,962 :INFO :test_Search :Item #3 was not active
+2024-10-20 21:38:11,318 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 21:38:16,716 :INFO :test_Search :Items from the search:
+2024-10-20 21:38:16,918 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 21:38:17,609 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 21:38:23,192 :INFO :test_Search :Item #3 was not active

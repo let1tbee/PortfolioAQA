@@ -11,8 +11,11 @@ class BaseClass():
     def initWaiting(self):
         self.wait = WebDriverWait(self.driver, 10)  # creates waiting timeout
 
-    def waiting(self, tuple):
+    def waitingVisible(self, tuple):
         self.wait.until(expected_conditions.visibility_of_element_located(tuple))
+
+    def waitingText(self, tuple, str):
+        self.wait.until(expected_conditions.text_to_be_present_in_element(tuple, str))
     def getLogger(self):
         loggerName = inspect.stack()[1][3]  # replacing name of the class to the name of the testcase which calls log
         logger = logging.getLogger(loggerName)  # catches test case name

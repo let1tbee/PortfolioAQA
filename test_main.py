@@ -1,42 +1,50 @@
 import time
 
+import pytest
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-from Utilities.BaseClass import  BaseClass
-from PageObjects.HomePage import HomePage
 
+from Utilities.BaseClass import  BaseClass
+from PageObjects.HomePageRegion import HomePageRegion
+from PageObjects.HomePageSearch import HomePageSearch
+
+region_zip = "64572"
+region = "Büttelborn 64572‌"
+search_input = "RTX 3060"
 class TestAmazonSmoke(BaseClass):
 
-
+    @pytest.mark.smoke
     def test_RegionChange(self):
         log = self.getLogger()
-        home_page = HomePage(self.driver)
+        home_page_region = HomePageRegion(self.driver)
 
         #If cookies acceptation requested - press accept and provide logs
         try:
-            home_page.cookiesAccept().click()
+            home_page_region.cookiesAccept().click()
             log.info("Cookies acceptation was shown and accepted")
         except:
             log.info("Cookies acceptation wasn't shown")
 
 
         #Changing region to Germany on Main page
-        home_page.regionButt().click()
-        home_page.zipCode().send_keys("64572")
+        home_page_region.regionButt().click()
+        home_page_region.zipCode().send_keys(region_zip)
         time.sleep(1)#wait time when some background magic happens
-        home_page.applyZip().click()
+        home_page_region.applyZip().click()
         self.initWaiting()
-        self.waiting(home_page.regionCheck())#waits until next pop-up appears
-        home_page.closeButt().click()
+        self.waitingVisible(home_page_region.regionCheck())#waits until next pop-up appears
+        home_page_region.closeButt().click()
 
+    @pytest.mark.smoke
     def test_Search(self):
         log = self.getLogger()
         #Main Page serach input
-        wait = WebDriverWait(self.driver,20)
-        wait.until(expected_conditions.text_to_be_present_in_element((By.ID,"glow-ingress-line2"),"Büttelborn 64572‌"))#waits until region changes
-        self.driver.find_element(By.ID,"twotabsearchtextbox").send_keys("RTX 3060")
-        self.driver.find_element(By.ID,"nav-search-submit-button").click()
+        home_page_search = HomePageSearch(self.driver)
+        self.initWaiting()
+        self.waitingText(home_page_search.regionCheck(),region)#waits until region changes
+        home_page_search.searchRequest().send_keys(search_input)
+        home_page_search.searchButt().click()
 
         log.info("Items from the search:")
         #Search  Page actions: select 3 Items from the page, grab Summary and price, add to cart
@@ -56,12 +64,13 @@ class TestAmazonSmoke(BaseClass):
                 wait = WebDriverWait(self.driver, 20)
                 wait.until(expected_conditions.presence_of_element_located((By.CSS_SELECTOR,"div[data-cel-widget='search_result_" + str(item) + "'] strong[class='a-size-small']")))  # waits for item to be added to the cart
             except:
-                log.info("Item #"+str(item)+"Was not active")
+                log.info("Item #"+str(item)+" was not active")
 
 
 
-        self.driver.find_element(By.CSS_SELECTOR, "a[class = 'a-button-text']").click()#go to the basket #TO REDO
+        self.driver.find_element(By.CSS_SELECTOR, "a[aria-label='2 items in shopping basket']").click()#go to the basket
 
+    @pytest.mark.smoke
     def test_Basket(self):
         log = self.getLogger()
         #screenshoot placeholder
