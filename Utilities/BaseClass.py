@@ -14,6 +14,9 @@ class BaseClass():
     def waitingVisible(self, tuple):
         self.wait.until(expected_conditions.visibility_of_element_located(tuple))
 
+    def waitingClick(self, tuple):
+        self.wait.until(expected_conditions.element_to_be_clickable(tuple))
+
     def waitingText(self, tuple, str):
         self.wait.until(expected_conditions.text_to_be_present_in_element(tuple, str))
     def getLogger(self):

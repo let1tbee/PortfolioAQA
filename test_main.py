@@ -48,31 +48,26 @@ class TestAmazonSmoke(BaseClass):
 
         log.info("Items from the search:")
         #Search  Page actions: select 3 Items from the page, grab Summary and price, add to cart
-        for item in range(1,4):#should change according to ad presence
-            locatorSummary = "div[data-cel-widget='search_result_"+str(item)+"'] a span[class='a-size-medium a-color-base a-text-normal']" #creates locator for first 3 items in the list
-            locatorPriceEuro = "div[data-cel-widget='search_result_"+str(item)+"'] a span[class='a-price-whole']"
-            locatorPriceCents = "div[data-cel-widget='search_result_"+str(item)+"'] a span[class='a-price-fraction']"
+        for item in range(2,5):#should change according to ad presence
             if (item>2):#scroll down window to see 3rd item, potential problem for other resolution screen
                 self.driver.execute_script("window.scrollBy(0,500)")
             try:
-                textSummary = self.driver.find_element(By.CSS_SELECTOR, locatorSummary).text
-                textPriceEuro = self.driver.find_element(By.CSS_SELECTOR, locatorPriceEuro).text
-                textPriceCents = self.driver.find_element(By.CSS_SELECTOR, locatorPriceCents).text
-                locatorButton ="button[id='a-autoid-"+str(item)+"-announce']"
-                self.driver.find_element(By.CSS_SELECTOR, locatorButton).click()  # adding item to the cart
+                textSummary = home_page_search.itemSum(item).text
+                textPriceEuro = home_page_search.priceEuro(item).text
+                textPriceCents = home_page_search.priceCents(item).text
+                home_page_search.itemButt(item-1).click()#if ad is present put "item -1", if not "item"
                 log.info(textSummary + " Price:" + textPriceEuro + "." + textPriceCents)
-                wait = WebDriverWait(self.driver, 20)
-                wait.until(expected_conditions.presence_of_element_located((By.CSS_SELECTOR,"div[data-cel-widget='search_result_" + str(item) + "'] strong[class='a-size-small']")))  # waits for item to be added to the cart
+                self.waitingClick(home_page_search.itemButt(item-1))#if ad is present put "item -1", if not "item"
             except:
                 log.info("Item #"+str(item)+" was not active")
 
 
 
-        self.driver.find_element(By.CSS_SELECTOR, "a[aria-label='2 items in shopping basket']").click()#go to the basket
-
     @pytest.mark.smoke
     def test_Basket(self):
         log = self.getLogger()
+        self.driver.execute_script("window.scrollTo(0,0)")
+        self.driver.find_element(By.ID, "nav-cart").click()#go to the basketa[href='https://www.amazon.de/-/en/gp/cart/view.html?ref_=nav_cart
         #screenshoot placeholder
         self.driver.find_element(By.NAME, "proceedToRetailCheckout").click()#proceed to Checkout
     time.sleep(5)

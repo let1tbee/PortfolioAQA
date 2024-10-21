@@ -70,3 +70,260 @@
 2024-10-20 21:38:16,918 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
 2024-10-20 21:38:17,609 :INFO :test_Search :GeForce RTX 3060 Price:288.29
 2024-10-20 21:38:23,192 :INFO :test_Search :Item #3 was not active
+2024-10-20 22:21:33,649 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-20 22:21:36,767 :INFO :test_Search :Items from the search:
+2024-10-20 22:21:38,221 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-20 22:21:39,015 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-20 22:21:39,587 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:197.75
+2024-10-21 12:25:59,132 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 12:27:39,812 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:27:43,195 :INFO :test_Search :Items from the search:
+2024-10-21 12:27:48,200 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:27:48,302 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:28:10,519 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:28:10,664 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 12:30:02,723 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:30:05,895 :INFO :test_Search :Items from the search:
+2024-10-21 12:30:10,933 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:30:11,062 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:30:33,290 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:30:33,386 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 12:31:07,100 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 12:31:18,807 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:31:47,975 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:31:59,325 :INFO :test_Search :Items from the search:
+2024-10-21 12:32:28,581 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:32:54,194 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:33:24,437 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:33:31,235 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 12:34:07,765 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:34:18,557 :INFO :test_Search :Items from the search:
+2024-10-21 12:34:29,807 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:34:42,904 :INFO :test_Search :Jectse RTX3060Ti 8G GDDR6 256-bit Graphics Card 7680 X 4320 Resolution HDR Technology Game Graphics Card with Dual Fan Cooling for DirectX 12, HDCP Noise Free Operation Price:381.72
+2024-10-21 12:35:09,892 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:35:16,968 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:35:55,066 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:35:58,072 :INFO :test_Search :Items from the search:
+2024-10-21 12:36:03,089 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:36:03,198 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:36:15,956 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:36:27,643 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:36:39,359 :INFO :test_Search :Items from the search:
+2024-10-21 12:36:51,422 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:37:04,965 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:37:37,667 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:37:41,406 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 12:43:26,604 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 12:43:38,214 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:43:41,244 :INFO :test_Search :Items from the search:
+2024-10-21 12:43:46,270 :INFO :test_Search :Item #1 was not active
+2024-10-21 12:43:46,378 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:44:08,507 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:44:13,588 :INFO :test_Search :Item #3 was not active
+2024-10-21 12:44:53,947 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 12:45:04,144 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:45:08,558 :INFO :test_Search :Items from the search:
+2024-10-21 12:45:08,731 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:45:30,790 :INFO :test_Search :Item #2 was not active
+2024-10-21 12:45:30,892 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 12:50:29,019 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 12:50:40,652 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 12:50:45,053 :INFO :test_Search :Items from the search:
+2024-10-21 12:50:45,258 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 12:50:46,002 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 12:50:51,397 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:13:08,237 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:13:12,606 :INFO :test_Search :Items from the search:
+2024-10-21 13:13:12,763 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 13:13:13,513 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 13:13:19,014 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:13:49,150 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:13:52,175 :INFO :test_Search :Items from the search:
+2024-10-21 13:13:54,285 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 13:13:54,886 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 13:14:00,321 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:14:17,408 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:14:20,374 :INFO :test_Search :Items from the search:
+2024-10-21 13:14:21,821 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 13:14:22,512 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 13:14:23,022 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 13:14:50,441 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:14:53,429 :INFO :test_Search :Items from the search:
+2024-10-21 13:14:54,920 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 13:14:55,596 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 13:14:56,115 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 13:17:04,334 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:17:08,587 :INFO :test_Search :Items from the search:
+2024-10-21 13:17:08,800 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 13:17:09,571 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 13:17:15,135 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:22:35,074 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:22:39,543 :INFO :test_Search :Items from the search:
+2024-10-21 13:22:39,574 :INFO :test_Search :Item #2 was not active
+2024-10-21 13:22:39,602 :INFO :test_Search :Item #3 was not active
+2024-10-21 13:22:39,646 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:23:54,095 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:23:57,265 :INFO :test_Search :Items from the search:
+2024-10-21 13:23:57,265 :INFO :test_Search :Item #2 was not active
+2024-10-21 13:23:58,527 :INFO :test_Search :Item #3 was not active
+2024-10-21 13:23:58,536 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:24:17,503 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:24:20,584 :INFO :test_Search :Items from the search:
+2024-10-21 13:24:21,844 :INFO :test_Search :Item #2 was not active
+2024-10-21 13:24:21,869 :INFO :test_Search :Item #3 was not active
+2024-10-21 13:24:21,923 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:24:59,670 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:25:17,642 :INFO :test_Search :Items from the search:
+2024-10-21 13:26:07,398 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:26:10,368 :INFO :test_Search :Items from the search:
+2024-10-21 13:26:11,432 :INFO :test_Search :Item #2 was not active
+2024-10-21 13:26:11,491 :INFO :test_Search :Item #3 was not active
+2024-10-21 13:26:11,536 :INFO :test_Search :Item #4 was not active
+2024-10-21 13:28:09,771 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 13:28:21,576 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 13:28:25,801 :INFO :test_Search :Items from the search:
+2024-10-21 13:28:26,033 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 13:28:26,745 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 13:28:32,209 :INFO :test_Search :Item #4 was not active
+2024-10-21 14:57:02,446 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 14:57:06,174 :INFO :test_Search :Items from the search:
+2024-10-21 14:57:08,405 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 14:57:08,405 :INFO :test_Search :Item #2 was not active
+2024-10-21 14:57:08,524 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 14:57:08,524 :INFO :test_Search :Item #3 was not active
+2024-10-21 14:57:08,626 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 14:57:08,626 :INFO :test_Search :Item #4 was not active
+2024-10-21 14:58:31,453 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 14:58:42,813 :INFO :test_Search :Items from the search:
+2024-10-21 14:58:49,075 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:00:13,514 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:00:17,721 :INFO :test_Search :Items from the search:
+2024-10-21 15:00:19,179 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:00:19,179 :INFO :test_Search :Item #2 was not active
+2024-10-21 15:00:19,326 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:00:19,326 :INFO :test_Search :Item #3 was not active
+2024-10-21 15:00:19,479 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:00:19,480 :INFO :test_Search :Item #4 was not active
+2024-10-21 15:00:45,682 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:00:55,322 :INFO :test_Search :Items from the search:
+2024-10-21 15:01:00,710 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:01:11,118 :INFO :test_Search :Item #2 was not active
+2024-10-21 15:01:19,091 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:03:08,332 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:03:20,996 :INFO :test_Search :Items from the search:
+2024-10-21 15:03:25,760 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:05:40,747 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:05:51,914 :INFO :test_Search :Items from the search:
+2024-10-21 15:05:55,532 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:06:55,856 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:06:58,768 :INFO :test_Search :Items from the search:
+2024-10-21 15:07:00,147 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:07:11,210 :INFO :test_Search :Item #2 was not active
+2024-10-21 15:07:11,332 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:07:22,403 :INFO :test_Search :Item #3 was not active
+2024-10-21 15:07:22,537 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:07:33,636 :INFO :test_Search :Item #4 was not active
+2024-10-21 15:08:28,785 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:08:39,508 :INFO :test_Search :Items from the search:
+2024-10-21 15:08:42,962 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:09:07,718 :INFO :test_Search :Item #2 was not active
+2024-10-21 15:09:39,735 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:10:43,580 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:10:46,553 :INFO :test_Search :Items from the search:
+2024-10-21 15:10:48,051 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:10:48,677 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:10:49,208 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:11:30,287 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:11:33,268 :INFO :test_Search :Items from the search:
+2024-10-21 15:11:34,648 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:11:35,230 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:11:35,871 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:12:35,127 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:12:38,098 :INFO :test_Search :Items from the search:
+2024-10-21 15:12:39,321 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:12:40,056 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:12:40,528 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:14:18,976 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:14:22,031 :INFO :test_Search :Items from the search:
+2024-10-21 15:14:23,351 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:14:23,988 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:14:24,526 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:16:01,410 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:16:05,353 :INFO :test_Search :Items from the search:
+2024-10-21 15:16:06,813 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:16:07,604 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:16:08,104 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:21:20,965 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 15:21:31,496 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:21:35,926 :INFO :test_Search :Items from the search:
+2024-10-21 15:21:36,142 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:21:36,817 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:21:37,467 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:22:14,058 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 15:22:24,220 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:22:28,571 :INFO :test_Search :Items from the search:
+2024-10-21 15:22:28,737 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:22:29,421 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:22:29,942 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:23:11,410 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:23:14,636 :INFO :test_Search :Items from the search:
+2024-10-21 15:23:15,978 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:23:16,728 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:23:17,204 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:24:13,431 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:24:17,125 :INFO :test_Search :Items from the search:
+2024-10-21 15:24:17,302 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:24:18,056 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:24:18,733 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:25:07,026 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:25:10,006 :INFO :test_Search :Items from the search:
+2024-10-21 15:25:11,047 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:25:11,721 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:25:12,161 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:26:22,130 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:26:25,630 :INFO :test_Search :Items from the search:
+2024-10-21 15:26:26,965 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:26:27,727 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:26:28,250 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:26:48,150 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:26:57,095 :INFO :test_Search :Items from the search:
+2024-10-21 15:26:59,863 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:27:02,741 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:27:05,358 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:28:22,766 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:28:27,032 :INFO :test_Search :Items from the search:
+2024-10-21 15:28:27,202 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:28:28,186 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:28:28,824 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:28:55,621 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:28:58,534 :INFO :test_Search :Items from the search:
+2024-10-21 15:28:59,930 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:29:00,525 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:29:01,098 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:29:49,023 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 15:29:59,114 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:30:02,230 :INFO :test_Search :Items from the search:
+2024-10-21 15:30:03,680 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:30:04,344 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:30:04,985 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:30:27,704 :INFO :test_RegionChange :Cookies acceptation wasn't shown
+2024-10-21 15:30:43,739 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:30:47,899 :INFO :test_Search :Items from the search:
+2024-10-21 15:30:48,107 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:30:48,791 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:30:49,232 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:33:11,811 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:33:16,326 :INFO :test_Search :Items from the search:
+2024-10-21 15:33:16,483 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:33:19,692 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:33:22,869 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:33:44,321 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:33:48,889 :INFO :test_Search :Items from the search:
+2024-10-21 15:33:49,089 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:33:52,272 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:33:55,448 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
+2024-10-21 15:35:38,723 :INFO :test_RegionChange :Cookies acceptation was shown and accepted
+2024-10-21 15:35:42,417 :INFO :test_Search :Items from the search:
+2024-10-21 15:35:43,781 :INFO :test_Search :ASUS GeForce Dual RTX 3060 12 GB V2 OC Edition Gaming Graphics Card (GDDR6 Memory, PCIe 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, DUAL-RTX3060-O12G-V2) Price:282.00
+2024-10-21 15:35:46,964 :INFO :test_Search :GeForce RTX 3060 Price:288.29
+2024-10-21 15:35:50,140 :INFO :test_Search :MSI GeForce RTX 3050 Ventus 2X XS 8G OC - 8GB GDDR6 Memory, 128-bit, 14 Gbps Price:216.00
