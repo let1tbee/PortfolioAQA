@@ -1,9 +1,11 @@
 import logging
 import inspect
 import pytest
+import openpyxl
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
+counter = 2
 
 @pytest.mark.usefixtures("setup")
 class BaseClass():
@@ -31,3 +33,16 @@ class BaseClass():
 
         logger.setLevel(logging.DEBUG)  # setting logs to be wrotten, all log above will not be put into the file
         return logger
+    def takeScreen(self):
+        self.driver.save_screenshot('screenshot.png')
+
+    def writeData(self,name,euro,cents):
+        file_path = "C:\\Users\\ratus\\PycharmProjects\\pythonTest\\AmazonPrices\\data.xlsx"
+        book = openpyxl.load_workbook(file_path)
+        sheet = book.active
+        global counter
+        sheet.cell(row=counter, column= 1).value = name
+        sheet.cell(row=counter, column=2).value = euro
+        sheet.cell(row=counter, column=3).value = cents
+        counter += 1
+        book.save(file_path)

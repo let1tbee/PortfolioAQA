@@ -25,7 +25,15 @@ def setup(request):
 
     yield #actions that will be performed after tests
     driver.close()
-'''
+@pytest.fixture(params=["RTX 3060","RTX 4060"])
+def searchData(request):
+    return request.param
+
+@pytest.fixture()
+def regionData():
+    return ["64572","Büttelborn 64572‌"]
+
+
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item):
     """
@@ -46,8 +54,9 @@ def pytest_runtest_makereport(item):
                 html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
                        'onclick="window.open(this.src)" align="right"/></div>' % file_name
                 extra.append(pytest_html.extras.html(html))
-        report.extra = extra'''
+        report.extra = extra
 
 
 def _capture_screenshot(name):
     driver.get_screenshot_as_file(name)
+
